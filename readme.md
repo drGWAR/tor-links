@@ -1,5 +1,3 @@
-Tor Links - Darknet Markets
-
 ![](/dne-logo.png)  
 Tor / Darknet Links
 =======================================
