@@ -1,6 +1,6 @@
-Tor Links - Darknet Markets   body { font-family: Arial, Helvetica, sans-serif; margin-left: 20px; margin-right: 20px; } li { margin-bottom: 10px; }
+Tor Links - Darknet Markets
 
-![](dne-logo.png)  
+![](/dne-logo.png)  
 Tor / Darknet Links
 =======================================
 
