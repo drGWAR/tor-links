@@ -11,10 +11,10 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 
 #### Top Darknet Markets:
 
+*   [Kingdom Market](https://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/`
 *   [Royal Market](http://royaltwo4kjifjlexcws43ksldy2e3t5y5j7ztjfhepc27fpzrf4yoyd.onion/) - `http://royaltwo4kjifjlexcws43ksldy2e3t5y5j7ztjfhepc27fpzrf4yoyd.onion/`
 *   [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/`
 *   [Tor2Door](http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/) - `http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/`
-*   [Kingdom Market](https://kingdom5bb43gc5umrviiwbicomgrma57jcmxm5uinjnfmegepbhmrad.online/) - `https://kingdom5bb43gc5umrviiwbicomgrma57jcmxm5uinjnfmegepbhmrad.online`
 *   [Torzon](http://torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.onion/) - `http://torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.onion/`
 *   [We The North Market (Canada)](https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online/) - `https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online`
 *   [Incognito Market](http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/) - `http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/`
