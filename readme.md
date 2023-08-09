@@ -17,7 +17,6 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [Bohemia](http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/) - `http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/`
 *   [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/`
 *   [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/`
-*   [Royal Market](http://royaltwo4kjifjlexcws43ksldy2e3t5y5j7ztjfhepc27fpzrf4yoyd.onion/) - `http://royaltwo4kjifjlexcws43ksldy2e3t5y5j7ztjfhepc27fpzrf4yoyd.onion/`
 *   [Tor2Door](http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/) - `http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/`
 *   [We The North Market (Canada)](https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online/) - `https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online`
 
