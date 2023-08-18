@@ -11,7 +11,7 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 
 #### Top Darknet Markets:
 
-*   [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/`
+*   [Torzon](http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/) - `http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/`
 *   [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/`
 *   [Incognito Market](http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion/) - `http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion/`
 *   [Bohemia](http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/) - `http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/`
@@ -19,6 +19,7 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/`
 *   [Tor2Door](http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/) - `http://wvp2anhcslscv7tg3kpbdf2oklhaelhla72l3nkzndubqrjldrjai3id.onion/`
 *   [We The North Market (Canada)](https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online/) - `https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online`
+*   [Brian's Club](http://brianscjvlmkbr67uon3f2iyeumcnspbv777les7bctljrlksq7dh2ad.onion/) - `http://brianscjvlmkbr67uon3f2iyeumcnspbv777les7bctljrlksq7dh2ad.onion/`
 
 
 #### Top Darknet Services:
