@@ -16,15 +16,16 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [Bohemia](http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/) - `http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/`
 *   [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/`
 *   [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/`
-*   [Torzon](http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/) - `http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/`
 *   [We The North Market (Canada)](https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online/) - `https://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.online`
 *   [Dark Matter](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/`
+*   [Torzon](http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/) - `http://torzon4ek3oej2nv7itw63hd7z56ot63dpqhbaspk25j25dkr3khfqqd.onion/`
+*   [Mega Market (Russia)](http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/) - `http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/`
 
 #### Top Cryptocurrency Exchanges:
 
 *   [Exch](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion/) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion/`
 *   [Infinity Exchanger](http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion/) - `http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion/`
-*   [Majestic Bank](http://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/) - `http://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/`
+*   [Coinomize](http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion/) - `http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion/`
 
 
 #### Top Darknet Services:
