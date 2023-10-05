@@ -23,6 +23,7 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 #### Top Cryptocurrency Exchanges:
 
 *   [Exch](http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion/) - `http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion/`
+*   [Majestic Bank](http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion/) - `http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion/`
 *   [Infinity Exchanger](http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion/) - `http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion/`
 *   [Coinomize](http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion/) - `http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion/`
 
