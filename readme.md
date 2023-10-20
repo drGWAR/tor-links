@@ -15,10 +15,11 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/`
 *   [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/`
 *   [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/`
+*   [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/`
 *   [Dark Matter](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/`
-*   [Bohemia](http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/) - `http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion/`
-*   [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/`
 *   [Mega Market (Russia)](http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/) - `http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/`
+*   [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/`
+
 
 #### Top Darknet Vendor Stores:
 
