@@ -26,8 +26,11 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 
 *   [Gamma Goblin Store](http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion/) - `http://ujhwc2qcu5r6rwerjvf4yostrmqq5epwlfvyfi25pp376jo6ktccnbid.onion/`
 *   [Smokers Co](http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion/) - `http://smokerbae4sv2bywadc7thltca6o63pqe7nonglextdkvm4yfrdp6oqd.onion/`
+*   [Cvv Union](http://cvvuniotri3wru2oexkqh6oesgrkuqtzlvwlsc7beoy7wjbhkau7cjid.onion/) - `http://cvvuniotri3wru2oexkqh6oesgrkuqtzlvwlsc7beoy7wjbhkau7cjid.onion/`
+*   [Heineken Express](http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion/) - `http://heinekeqbzrhusz5d36rhew32ayfaqmbhpifkxfrwt6gq655ebihx5yd.onion/`
 *   [ROI Business Store](http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion/) - `http://roibu2pmnuvw4l62sses6skiujhxubwb6cbyjtqvohynqig5upgqvjad.onion/`
-*   [DMT Carts](http://dmtcafexbpdiuk42h3r6comkoq7cvgjcamtwcuh2ohsswskn5guciuqd.onion/) - `http://dmtcafexbpdiuk42h3r6comkoq7cvgjcamtwcuh2ohsswskn5guciuqd.onion/`
+*   [Biden Cash](http://bidencg4yjczuy2jbuknbwfauu3565zwqsat7nkbdpa3pnll6burmdid.onion/) - `http://bidencg4yjczuy2jbuknbwfauu3565zwqsat7nkbdpa3pnll6burmdid.onion/`
+
 
 #### Top Cryptocurrency Exchanges:
 
@@ -42,6 +45,7 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [The Tor Project](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) - `http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/`
 *   [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) - `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/`
 *   [Naturella](http://naturelwg7o3bhnhwcmn6svzoekxkl3pv365krgmdpckonf5xvarlkid.onion/) - `http://naturelwg7o3bhnhwcmn6svzoekxkl3pv365krgmdpckonf5xvarlkid.onion/`
+*   [Psychonaut Wiki](http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/) - `http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/`
 *   [RiseUp](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/) - `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/`
 
   
