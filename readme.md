@@ -23,7 +23,7 @@ All the sites listed have been verified by DarkNetEye as being legitimate operat
 *   [BlackSprut Market (Russia)](http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion/) - `http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion/`
 *   [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/`
 *   [Dark Matter](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/`
-*   [Go Fish Market)](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion/) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion/`
+*   [Go Fish Market](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion/) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion/`
 
 
 #### Top Darknet Vendor Stores:
